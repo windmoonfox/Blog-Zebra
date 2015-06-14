@@ -1,0 +1,1 @@
+Today, I tried to set readonly of a virtual device which is attached to a zfs pool. My intention is to figure out if the access limit to the underleve device can influence the behavior of zfs. So far, I find the answer is no.
